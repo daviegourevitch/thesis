@@ -1,0 +1,4 @@
+annotators = parse
+
+outputFormat = json
+
